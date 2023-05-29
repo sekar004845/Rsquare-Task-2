@@ -6,20 +6,8 @@
 	margin:auto;
     width: 90%;
 }
-.sec-head{
-	text-align:center;
-}
 .section{
     margin-bottom: 60px;
-}
-.row{
-	display:flex;
-	flex-wrap:wrap;
-    
-}
-.col{
-    width: 25%;
-    padding: 10px;
 }
 img{
     max-width: 100%;
@@ -30,26 +18,10 @@ img{
 }
 i{
 	color:#ffc451;
-	font-size:40px;
-	padding-left:20px;	
+	font-size:40px;	
 }
 .para{
 	padding-left:20px;
-	padding-bottom:30px;
-}
-.contactus{
-    text-align: center;
-}
-.col-2{
-    width: 33.3%;
-    padding: 20px;
-    text-align: center;
-}
-.map{
-    width: 50%;
-}
-.form{
-    width: 50%;
 }
 .form-1{
     padding: 10px;
